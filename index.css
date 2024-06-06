@@ -179,6 +179,7 @@
 .fifth-texts {
     position: relative;
     width: 27rem;
+    font-size: 10px;
 }
 .fifthimg img {
     width: 30rem;
