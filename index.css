@@ -186,7 +186,7 @@
 }
 .last {
     background-color: black;
-    height: 160vh;
+    height: fit-content;
     display: flex;
     flex-direction: column;
     align-items: center;
